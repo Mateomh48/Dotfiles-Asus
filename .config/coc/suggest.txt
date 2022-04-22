@@ -1,0 +1,12 @@
+asu|asusctl|around
+spw|spawn|around
+form|format|around
+lig|light|around
+ligh|light|around
+powerline|powerline|around
+wid|widget|around
+power|powerline|around
+disa|disabled|around
+st|style|around
+sym|symbol|around
+|wallpaper.jpg|file
