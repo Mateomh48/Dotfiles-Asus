@@ -1,0 +1,4 @@
+Ciberseguridad
+Pereira
+seccional
+checksum_v1 = 26a728644ab05e3ad67010c0f1ed8209

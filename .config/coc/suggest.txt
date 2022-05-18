@@ -1,3 +1,11 @@
+proy|proyecto|around
+rent|rentable|around
+Bac|Back|around
+milon|millones|around
+Indif|Indiferente|around
+Pre|Prefix|around
+vent|ventana|around
+Prefix|Prefix|around
 asu|asusctl|around
 spw|spawn|around
 form|format|around

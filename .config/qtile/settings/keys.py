@@ -102,7 +102,8 @@ keys = [Key(key[0], key[1], *key[2:]) for key in [
     ([], "XF86Launch4", lazy.spawn("asusctl profile -n")),
     ([], "XF86Launch1", lazy.spawn("volumeicon &")),
     #Xlock Screen
-    ([mod], "l", lazy.spawn("xlock")),
+
+    #([mod], "l", lazy.spawn("xlock")),
 
 
 

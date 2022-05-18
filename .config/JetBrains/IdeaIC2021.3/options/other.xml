@@ -1,0 +1,35 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26BCmrlT8BKKFMdYOJX2dgQO3ad">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-213.6777.52-1fa3bedb965e50405e0850b155a5c20fb8c47cf97a09c684dcf8750ed744081a" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IC-213.6777.52" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Platzi/JavaCourses/FunctionalJava/JavaSE-Functional-platzi" />
+    <property name="file.gist.reindex.count" value="9" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ6777.52" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Platzi/JavaCourses/FunctionalJava/JavaSE-Functional-platzi" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1646887755253" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-213.6777.52" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

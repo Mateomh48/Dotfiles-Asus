@@ -1,0 +1,73 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="90" l="1646888719816" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="23" l="1646888711906" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="2" l="1646888650707" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1646888865524" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="16" l="1646888653086" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1646888605027" />
+    </e>
+    <e n="EditorEnter">
+      <i c="27" l="1646888707416" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1646888417150" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1646888303591" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="2" l="1646888303153" />
+    </e>
+    <e n="EditorRight">
+      <i c="8" l="1646888681690" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1646888304254" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1646888606064" />
+    </e>
+    <e n="EditorUp">
+      <i c="15" l="1646888627369" />
+    </e>
+    <e n="ExpandAllRegions">
+      <i c="2" l="1646888571245" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1646888569875" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1646888154232" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1646888723579" />
+    </e>
+    <e n="SaveAll">
+      <i c="6" l="1646888720758" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1646888499712" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1646887735924" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="2" l="1646888324805" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1646889411617" />
+    </e>
+  </component>
+</application>
