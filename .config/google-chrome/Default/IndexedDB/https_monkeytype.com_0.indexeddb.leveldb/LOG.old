@@ -1,0 +1,13 @@
+2022/08/16-00:12:52.682 7426 Reusing MANIFEST /home/mateo/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/16-00:12:52.682 7426 Recovering log #7
+2022/08/16-00:12:52.683 7426 Reusing old log /home/mateo/.config/google-chrome/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000007.log 
+2022/08/16-00:12:53.298 7433 Level-0 table #12: started
+2022/08/16-00:12:53.299 7433 Level-0 table #12: 8566 bytes OK
+2022/08/16-00:12:53.300 7433 Delete type=0 #7
+2022/08/16-00:12:53.301 7433 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/16-00:13:30.911 7433 Compacting 1@1 + 1@2 files
+2022/08/16-00:13:30.913 7433 Generated table #13@1: 40 keys, 4317 bytes
+2022/08/16-00:13:30.913 7433 Compacted 1@1 + 1@2 files => 4317 bytes
+2022/08/16-00:13:30.914 7433 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/16-00:13:30.914 7433 Delete type=2 #9
+2022/08/16-00:13:30.914 7433 Delete type=2 #12
